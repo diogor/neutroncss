@@ -1,0 +1,18 @@
+{
+  "name": "neutroncss",
+  "version": "1.0.0",
+  "description": "Custom neutron css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogor/neutroncss.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogor/neutroncss/issues"
+  },
+  "homepage": "https://github.com/diogor/neutroncss#readme"
+}
